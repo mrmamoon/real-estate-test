@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ropnyjzZmKg=",
+  "success": true,
+  "projectFilePath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/RealEstate.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/mamoon/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/mamoon/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/mamoon/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/home/mamoon/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

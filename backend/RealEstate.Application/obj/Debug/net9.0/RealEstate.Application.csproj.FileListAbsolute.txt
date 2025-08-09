@@ -1,0 +1,16 @@
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.deps.json
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.dll
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.pdb
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/bin/Debug/net9.0/RealEstate.Core.dll
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/bin/Debug/net9.0/RealEstate.Core.pdb
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.csproj.AssemblyReference.cache
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.AssemblyInfoInputs.cache
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.AssemblyInfo.cs
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.csproj.CoreCompileInputs.cache
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.sourcelink.json
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEsta.ABD55878.Up2Date
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.dll
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/refint/RealEstate.Application.dll
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.pdb
+/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/obj/Debug/net9.0/ref/RealEstate.Application.dll
