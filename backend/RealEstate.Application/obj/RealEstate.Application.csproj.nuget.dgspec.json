@@ -52,6 +52,14 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "System.ComponentModel.Annotations": {
               "target": "Package",
               "version": "[5.0.0, )"

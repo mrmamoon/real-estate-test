@@ -8,6 +8,10 @@ using RealEstate.Core.Interfaces;
 using RealEstate.Infrastructure.Repositories;
 using RealEstate.Infrastructure.Services;
 using RealEstate.Core.Entities;
+using AutoMapper;
+using RealEstate.Application.Interfaces;
+using RealEstate.Application.Services;
+using RealEstate.Application.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +22,8 @@ builder.Services.AddDbContext<RealEstateContext>(options =>
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+// builder.Services.AddApplicationLayer();
+builder.Services.AddAutoMapper(typeof(PropertyProfile).Assembly);
 
 // Add JWT Authentication
 var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
@@ -40,6 +46,7 @@ builder.Services.AddScoped<IUserAccessor, UserAccessor>();
 builder.Services.AddScoped<IPropertyRepository, PropertyRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IPropertyService, PropertyService>();
 
 var app = builder.Build();
 

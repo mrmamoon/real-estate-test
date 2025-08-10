@@ -25,5 +25,10 @@ namespace RealEstate.Infrastructure.Repositories
         {
             return await _context.Properties.FindAsync(id);
         }
+
+        public IQueryable<Property> GetQueryable()
+        {
+        return _context.Properties.AsQueryable();
+        } 
     }
 }

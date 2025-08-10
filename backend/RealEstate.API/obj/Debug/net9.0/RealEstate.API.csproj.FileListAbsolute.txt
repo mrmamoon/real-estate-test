@@ -166,12 +166,9 @@
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.MvcApplicationPartsAssemblyInfo.cs
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.MvcApplicationPartsAssemblyInfo.cache
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.sourcelink.json
-/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.dll
-/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/refint/RealEstate.API.dll
-/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.pdb
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/appsettings.Development.json
-/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/RealEstate.API.staticwebassets.endpoints.json
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/appsettings.json
+/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/RealEstate.API.staticwebassets.endpoints.json
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/RealEstate.API
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/RealEstate.API.deps.json
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/bin/Debug/net9.0/RealEstate.API.runtimeconfig.json
@@ -316,5 +313,8 @@
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RealEstate.API.props
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/staticwebassets.pack.json
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEsta.FBD3F776.Up2Date
+/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.dll
+/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/refint/RealEstate.API.dll
+/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.pdb
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/RealEstate.API.genruntimeconfig.cache
 /home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/Debug/net9.0/ref/RealEstate.API.dll

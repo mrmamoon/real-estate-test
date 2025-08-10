@@ -8,6 +8,7 @@ namespace RealEstate.Core.Interfaces
     {
         Task<IEnumerable<Property>> GetAllAsync();
         Task<Property?> GetByIdAsync(int id);
+        IQueryable<Property> GetQueryable();
     }
 
     public interface IUserRepository
