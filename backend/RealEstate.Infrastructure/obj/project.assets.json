@@ -3298,11 +3298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
+      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
       "projectName": "RealEstate.Infrastructure",
-      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
+      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
       "packagesPath": "/home/mamoon/.nuget/packages/",
-      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/obj/",
+      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mamoon/.nuget/NuGet/NuGet.Config"
@@ -3317,8 +3317,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Core/RealEstate.Core.csproj": {
-              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Core/RealEstate.Core.csproj"
+            "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Core/RealEstate.Core.csproj": {
+              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Core/RealEstate.Core.csproj"
             }
           }
         }

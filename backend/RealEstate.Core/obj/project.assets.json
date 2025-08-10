@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Core/RealEstate.Core.csproj",
+      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Core/RealEstate.Core.csproj",
       "projectName": "RealEstate.Core",
-      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Core/RealEstate.Core.csproj",
+      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Core/RealEstate.Core.csproj",
       "packagesPath": "/home/mamoon/.nuget/packages/",
-      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Core/obj/",
+      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mamoon/.nuget/NuGet/NuGet.Config"

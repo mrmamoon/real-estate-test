@@ -5043,11 +5043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.API/RealEstate.API.csproj",
+      "projectUniqueName": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/RealEstate.API.csproj",
       "projectName": "RealEstate.API",
-      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.API/RealEstate.API.csproj",
+      "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/RealEstate.API.csproj",
       "packagesPath": "/home/mamoon/.nuget/packages/",
-      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.API/obj/",
+      "outputPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mamoon/.nuget/NuGet/NuGet.Config"
@@ -5062,11 +5062,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/RealEstate.Application.csproj": {
-              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Application/RealEstate.Application.csproj"
+            "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Application/RealEstate.Application.csproj": {
+              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Application/RealEstate.Application.csproj"
             },
-            "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj": {
-              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj"
+            "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj": {
+              "projectPath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj"
             }
           }
         }

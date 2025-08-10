@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mBobDgd+dk=",
+  "dgSpecHash": "Y3CLzKIHn5I=",
   "success": true,
-  "projectFilePath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
+  "projectFilePath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.Infrastructure/RealEstate.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/mamoon/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/mamoon/.nuget/packages/microsoft.aspnetcore.cryptography.internal/9.0.8/microsoft.aspnetcore.cryptography.internal.9.0.8.nupkg.sha512",

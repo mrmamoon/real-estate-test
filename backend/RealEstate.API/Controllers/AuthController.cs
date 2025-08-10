@@ -32,5 +32,20 @@ namespace RealEstate.API.Controllers
             
             return Ok(new { token = _authService.CreateToken(user) });
         }
+
+        [HttpPost("login")]
+        public async Task<ActionResult> Login(UserLoginDto dto)
+        {
+            var user = await _userRepo.GetByEmailAsync(dto.Email);
+
+            if (user == null)
+                return Unauthorized("Invalid email or password");
+            if(!_authService.VerifyPasswordHash(dto.Password, user.PasswordHash, user.PasswordSalt))
+                return Unauthorized("Invalid email or password");
+
+            
+            return Ok(new {token = _authService.CreateToken(user)});
+
+        }
     }
 }

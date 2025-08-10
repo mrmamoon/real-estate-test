@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iqYo9j8HRag=",
+  "dgSpecHash": "YHzhzcQGFi8=",
   "success": true,
-  "projectFilePath": "/home/mamoon/cetcoltek/tests/brainxero/RealEstatePortal/RealEstate.API/RealEstate.API.csproj",
+  "projectFilePath": "/home/mamoon/cetcoltek/tests/brainxero/backend/RealEstate.API/RealEstate.API.csproj",
   "expectedPackageFiles": [
     "/home/mamoon/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/mamoon/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
