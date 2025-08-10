@@ -7,6 +7,7 @@ using System.Text;
 using RealEstate.Core.Interfaces;
 using RealEstate.Infrastructure.Repositories;
 using RealEstate.Infrastructure.Services;
+using RealEstate.Core.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -55,5 +56,33 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapPost("/api/seed", async (RealEstateContext context) =>
+{
+    if (!context.Properties.Any())
+    {
+        context.Properties.AddRange(
+            new Property { 
+                Title = "Modern Apartment", 
+                Address = "123 Main St", 
+                Price = 250000, 
+                Bedrooms = 2, 
+                Bathrooms = 2,
+                Description = "Lorem ipsum" 
+                },
+            new Property { 
+                Title = "Suburban House", 
+                Address = "456 Oak Ave", 
+                Price = 450000, 
+                Bedrooms = 4, 
+                Bathrooms = 3,
+                Description = "Lorem ipsum" 
+                }
+        );
+    }
+    
+    await context.SaveChangesAsync();
+    return Results.Ok("Database seeded");
+});
 
 app.Run();
